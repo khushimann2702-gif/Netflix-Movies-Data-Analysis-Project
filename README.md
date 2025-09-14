@@ -76,5 +76,5 @@ These findings demonstrate the power of **data analytics in content strategy** a
 ---
 
 ## 👨‍💻 Author  
-- 💼 **LinkedIn**: [Najirr](https://www.linkedin.com/in/khushi-mann-2ba95a363/overlay/contact-info/)  
+- 💼 **LinkedIn**: [Khushi Mann](https://www.linkedin.com/in/khushi-mann-2ba95a363/overlay/contact-info/)  
   
