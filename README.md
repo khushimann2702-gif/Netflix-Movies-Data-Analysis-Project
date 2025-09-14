@@ -1,6 +1,6 @@
 # 🎬 Netflix Movies Data Analysis  
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)  
+![]( https://github.com/khushimann2702-gif/Netflix-Movies-Data-Analysis-Project/edit/main/README.md) 
 
 ## 📌 Overview  
 
