@@ -27,12 +27,6 @@ The analysis answers important business questions such as:
 - Provide **data-driven insights** to support Netflix’s content strategy and recommendation systems.  
 
 ---
-
-## 📂 Dataset  
-
-The dataset is sourced from Kaggle:  
-- **Dataset Link:** [Netflix Movies & TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)  
-
 **Columns include:**  
 - `title`: Movie title  
 - `release_year`: Year of release  
@@ -82,10 +76,5 @@ These findings demonstrate the power of **data analytics in content strategy** a
 ---
 
 ## 👨‍💻 Author  
-
-**Zero Analyst** – Data Analyst | SQL, Python, BI Tools | Business Insights through Data  
-
-- 📺 **YouTube**: [Zero Analyst](https://www.youtube.com/@zero_analyst)  
-- 📸 **Instagram**: [@zero_analyst](https://www.instagram.com/zero_analyst/)  
-- 💼 **LinkedIn**: [Najirr](https://www.linkedin.com/in/najirr)  
-- 💬 **Discord**: [Join Community](https://discord.gg/36h5f2Z5PK)  
+- 💼 **LinkedIn**: [Najirr](https://www.linkedin.com/in/khushi-mann-2ba95a363/overlay/contact-info/)  
+  
